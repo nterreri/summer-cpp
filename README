@@ -1,0 +1,5 @@
+This is a collection of source code for solutions to programming projects taken from a popular C++ textbook.
+They have been developed using Visual Studio Community 2013, targeting Windows 7 as a platform.
+
+The purpose of this collection is to display my (Nic Terreri) ability to write correct C++ code, as well as my understading of
+good C++ programming practices specifically, and good programming practices generally.
