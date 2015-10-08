@@ -1,12 +1,7 @@
-This is a collection of source code for solutions to programming projects taken from a popular C++ textbook.
-They have been developed using Visual Studio Community 2013, targeting Windows 7 as a platform.
+This is a collection of source code for solutions to programming projects taken from a popular C++ textbook. They have been developed using Visual Studio Community 2013, targeting Windows 7 as a platform.
 
-The purpose of this collection is to display my (Nic Terreri) ability to write correct C++ code, as well as my understading of
-good C++ and object-oriented programming practices specifically, and good programming practices generally.
+The purpose of this collection is to display my (Nic Terreri) ability to write correct C++ code, as well as my understading of good C++ and object-oriented programming practices specifically, and good programming practices generally.
 
-At first, I started working on every single project presented at the end of each chapter of the textbook, about halfway 
-through, I realized I was not going to have the time to finish the book before the start of my Master's Degree in Computer 
-Scienceif I kept working on every single project.
+At first, I started working on every single project presented at the end of each chapter of the textbook, about halfway through, I realized I was not going to have the time to finish the book before the start of my Master's Degree in Computer Science if I kept working on every single project.
 
-Therefore, I thereafter started working on one project for every two, or on whichever project I found interesting.
-Notwithstanding the reduced work volume, I was unable to progress past chapter 11 before the begginning of my MSc course.
+Therefore, I thereafter started working on one project for every two, or on whichever project I found interesting. Notwithstanding the reduced work volume, I was unable to progress past chapter 11 before the begginning of my MSc course.
