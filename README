@@ -5,3 +5,5 @@ The purpose of this collection is to display my (Nic Terreri) ability to write c
 At first, I started working on every single project presented at the end of each chapter of the textbook, about halfway through, I realized I was not going to have the time to finish the book before the start of my Master's Degree in Computer Science if I kept working on every single project.
 
 Therefore, I thereafter started working on one project for every two, or on whichever project I found interesting. Notwithstanding the reduced work volume, I was unable to progress past chapter 11 before the begginning of my MSc course.
+
+Needless to say, a few of the projects require some reworking. The projects implementing custom classes, for example, have very rough test driver main functions that are not very easy to understand; secondly, some of the early projects manifestly misuse recursion (although in a way that does not impair the basic effectiveness of the program for the task); finally, there is a more or less ubiquitous lack of documentation throughout.
